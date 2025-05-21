@@ -1,8 +1,8 @@
 === Audioman ===
 Contributors: catchthemes
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, entertainment, photography, portfolio
-Requires at least: 5.6
-Tested up to: 6.6
+Requires at least: 5.9
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -42,6 +42,9 @@ You can check our Theme Demo at https://catchthemes.com/demo/audioman/
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 2.3.1 (Released: May 21, 2025) =
+* Updated: WordPress 6.8 ready
 
 = 2.3 (Released: August 28, 2024) =
 * Bug Fixed: Escaping author display name
@@ -175,7 +178,7 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Copyright ==
 
-Audioman WordPress Theme, Copyright 2012-2023 Catchthemes.com
+Audioman WordPress Theme, Copyright 2012-2025 Catchthemes.com
 Audioman is distributed under the terms of the GNU GPL
 
 == Resources ==
@@ -210,7 +213,7 @@ Audioman is distributed under the terms of the GNU GPL
 	Font Awesome icons, Copyright Dave Gandy
 	License: SIL Open Font License, version 1.1.
 	Source: http://fontawesome.io/
-	
+
 * PHP files
 	WPTT_WebFont_Loader
 	License https://opensource.org/licenses/MIT
