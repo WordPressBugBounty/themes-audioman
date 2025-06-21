@@ -43,6 +43,10 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
 
+= 2.4 (Released: June 21, 2025) =
+* Added: Twitter X, Bluesky, Twitter, Threads, Discord, Phone, Line, Vk, Xing, Snapchat, and Telegram icons
+* Updated: Font Awesome to version 6.7.2
+
 = 2.3.1 (Released: May 21, 2025) =
 * Updated: WordPress 6.8 ready
 

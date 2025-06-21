@@ -169,7 +169,7 @@ if ( ! function_exists( 'audioman_setup' ) ) :
 		add_editor_style( array(
 			'assets/css/editor-style.css',
 			audioman_fonts_url(),
-			trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'assets/css/font-awesome/css/font-awesome.css' )
+			trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'assets/css/font-awesome/css/all.min.css' )
 		);
 
 		/*
@@ -485,7 +485,7 @@ if ( ! function_exists( 'audioman_fonts_url' ) ) :
 		}
 		// Load google font locally.
 		require_once get_theme_file_path( 'inc/wptt-webfont-loader.php' );
-		
+
 		return esc_url( wptt_get_webfont_url( $fonts_url ) );
 	}
 endif;
@@ -515,7 +515,8 @@ function audioman_scripts() {
 	// Theme block stylesheet.
 	wp_enqueue_style( 'audioman-block-style', get_theme_file_uri( '/assets/css/blocks.css' ), array( 'audioman-style' ), '1.0' );
 
-	wp_enqueue_style( 'font-awesome', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'assets/css/font-awesome/css/font-awesome.css', array(), '4.7.0', 'all' );
+	// Font Awesome
+	wp_enqueue_style('font-awesome', trailingslashit(esc_url(get_template_directory_uri())) . 'assets/css/font-awesome/css/all.min.css', array(), '6.7.2', 'all');
 
 	wp_enqueue_script( 'audioman-skip-link-focus-fix', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'assets/js/skip-link-focus-fix.min.js', array(), '201800703', true );
 

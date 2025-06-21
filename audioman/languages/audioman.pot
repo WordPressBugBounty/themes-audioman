@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Audioman\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2025-05-21 14:26+0545\n"
+"POT-Creation-Date: 2025-06-21 21:12+0545\n"
 "PO-Revision-Date: 2016-12-07 01:05-0500\n"
 "Last-Translator: Catch Themes <info@catchthemes.com>\n"
 "Language-Team: Catch Themes <info@catchthemes.com>\n"
@@ -166,15 +166,15 @@ msgctxt "Roboto: on or off"
 msgid "on"
 msgstr ""
 
-#: ../functions.php:539
+#: ../functions.php:540
 msgid "expand child menu"
 msgstr ""
 
-#: ../functions.php:540
+#: ../functions.php:541
 msgid "collapse child menu"
 msgstr ""
 
-#: ../functions.php:606 ../functions.php:629 ../functions.php:656
+#: ../functions.php:607 ../functions.php:630 ../functions.php:657
 msgid "Continue reading"
 msgstr ""
 
