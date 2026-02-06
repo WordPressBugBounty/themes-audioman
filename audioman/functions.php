@@ -136,7 +136,7 @@ function audioman_mejs_add_container_class() {
 	</script>
 	<?php
 }
-add_action( 'wp_print_footer_scripts', 'audioman_mejs_add_container_class' );
+add_action( 'wp_print_footer_scripts', 'audioman_mejs_add_container_class', 11 );
 
 if ( ! function_exists( 'audioman_setup' ) ) :
 	/**

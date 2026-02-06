@@ -4,9 +4,9 @@ Theme URI: https://catchthemes.com/themes/audioman/
 Author: Catch Themes
 Author URI: https://catchthemes.com/
 Description: Audioman is a well-designed, modern and trendy music WordPress theme built for musicians and bands that focuses on promoting their music and events. Simple modules and features are available in Audioman so you can build a complete and custom website right away. The theme comes with an array of features — such as header media, featured slider, featured content, hero content, playlist, portfolio, testimonials, and more — to keep your music website on the forefront. Audioman is completely responsive, which means your website will look incredibly sleek and visually appealing on all the devices with different screen resolution. The theme is deeply engaging, and the features provided in it will assist you in gaining genuine followers in a short period of time. To top it all, the theme is translation ready. For more details, check out Theme Instructions at https://catchthemes.com/themes/audioman/#theme-instructions, Support at https://catchthemes.com/support/ and Demo at https://catchthemes.com/demo/audioman/
-Version: 2.4
+Version: 2.4.1
 Requires at least: 5.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -7782,6 +7782,14 @@ dl.variation p {
 	body #playlist-section .wp-playlist {
 		margin: 0.875em -2.5em 1.3125em;
 	}
+
+		body #playlist-section.content-align-left .wp-playlist {
+			margin-right: 0
+		}
+
+		body #playlist-section.content-align-right .wp-playlist {
+			margin-left: 0
+		}
 
 	.audioman-mejs-container.mejs-container .mejs-controls .mejs-button.mejs-previous,
 	.audioman-mejs-container.mejs-container .mejs-controls .mejs-button.mejs-next {

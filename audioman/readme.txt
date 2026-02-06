@@ -2,7 +2,7 @@
 Contributors: catchthemes
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, entertainment, photography, portfolio
 Requires at least: 5.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -42,6 +42,10 @@ You can check our Theme Demo at https://catchthemes.com/demo/audioman/
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 2.4.1 (Released: December 05, 2025) =
+* Bug Fixed: Playlist issue after WordPress 6.9 update
+* Updated: WordPress 6.9 ready
 
 = 2.4 (Released: June 21, 2025) =
 * Added: Twitter X, Bluesky, Twitter, Threads, Discord, Phone, Line, Vk, Xing, Snapchat, and Telegram icons
