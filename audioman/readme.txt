@@ -2,16 +2,16 @@
 Contributors: catchthemes
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, entertainment, photography, portfolio
 Requires at least: 5.9
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Audioman is a well-designed, modern and trendy music WordPress theme built for musicians and bands that focuses on promoting their music and events.
+Audioman is a modern music WordPress theme for musicians and bands, featuring playlists, sliders, hero content, and responsive design.
 
 == Description ==
 
-Audioman is a well-designed, modern and trendy music WordPress theme built for musicians and bands that focuses on promoting their music and events. Simple modules and features are available in Audioman so you can build a complete and custom website right away. The theme comes with an array of features—such as header media, featured slider, featured content, hero content, playlist, portfolio, testimonials, and more—to keep your music website on the forefront. Audioman is completely responsive, which means your website will look incredibly sleek and visually appealing on all the devices with different screen resolution. The theme is deeply engaging, and the features provided in it will assist you in gaining genuine followers in a short period of time. To top it all, the theme is translation ready. For more details, check out Theme Instructions at https://catchthemes.com/themes/audioman/#theme-instructions, Support at https://catchthemes.com/support/ and Demo at https://catchthemes.com/demo/audioman/.
+Audioman is a modern and trendy Free Music WordPress Theme designed for musicians, bands, artists, and anyone in the music industry. It offers a clean layout and easy-to-use customization options that help you create a professional music website quickly. The theme includes essential music-focused features such as Header Media, Featured Slider, Featured Content, Hero Content, Playlist, Portfolio, and Testimonials. These features allow you to showcase your music, events, albums, and stories in an engaging way. Audioman is fully responsive and looks great on all screen sizes. Its visually appealing design ensures your content stands out, whether viewed on mobile, tablet, or desktop. If you are looking for more layout options, additional sections, and extended customization controls, be sure to explore Audioman Pro.
 
 For more information about Audioman please go to https://catchthemes.com/themes/audioman/
 
@@ -42,6 +42,10 @@ You can check our Theme Demo at https://catchthemes.com/demo/audioman/
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 2.4.2 (Released: May 24, 2026) =
+* Bug Fixed: Testimonial Custom Post Type Archive Title and Content issue with Jetpack
+* Updated: WordPress 7.0 ready
 
 = 2.4.1 (Released: December 05, 2025) =
 * Bug Fixed: Playlist issue after WordPress 6.9 update
@@ -186,7 +190,7 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Copyright ==
 
-Audioman WordPress Theme, Copyright 2012-2025 Catchthemes.com
+Audioman WordPress Theme, Copyright 2012-2026 Catchthemes.com
 Audioman is distributed under the terms of the GNU GPL
 
 == Resources ==
